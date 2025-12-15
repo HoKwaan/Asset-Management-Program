@@ -1,0 +1,11 @@
+asset_manager/
+├── main.py
+├── data/
+│ ├── transactions.csv
+│ └── investment_status.csv
+├── asset_management/
+│ ├── analysis.py
+│ └── expense_model.py
+└── asset_saving/
+├── portfolio.py
+└── investment.py
